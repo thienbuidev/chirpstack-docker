@@ -106,6 +106,55 @@
       bandwidth=125000
       modulation="LORA"
       spreading_factors=[7, 8, 9, 10, 11, 12]
+      
+    [[regions.network.extra_channels]]
+      frequency=921800000
+      bandwidth=125000
+      modulation="LORA"
+      spreading_factors=[7, 8, 9, 10, 11, 12]
+      min_dr=0
+      max_dr=5
+
+    [[regions.network.extra_channels]]
+      frequency=922000000
+      bandwidth=125000
+      modulation="LORA"
+      spreading_factors=[7, 8, 9, 10, 11, 12]
+      min_dr=0
+      max_dr=5
+
+    [[regions.network.extra_channels]]
+     frequency=922200000
+     bandwidth=125000
+     modulation="LORA"
+     spreading_factors=[7, 8, 9, 10, 11, 12]
+     min_dr=0
+     max_dr=5
+
+    [[regions.network.extra_channels]]
+     frequency=922400000
+     bandwidth=125000
+     modulation="LORA"
+     spreading_factors=[7, 8, 9, 10, 11, 12]
+     min_dr=0
+     max_dr=5
+
+    [[regions.network.extra_channels]]
+     frequency=922600000
+     bandwidth=125000
+     modulation="LORA"
+     spreading_factors=[7, 8, 9, 10, 11, 12]
+     min_dr=0
+     max_dr=5
+
+    [[regions.network.extra_channels]]
+     frequency=922800000
+     bandwidth=125000
+     modulation="LORA"
+     spreading_factors=[7, 8, 9, 10, 11, 12]
+     min_dr=0
+     max_dr=5
+      
 
 
   # Region specific network configuration.
