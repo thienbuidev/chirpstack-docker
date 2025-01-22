@@ -21,8 +21,8 @@ type="basic_station"
   ca_cert=""
 
   region="AS923"
-  frequency_min=915000000
-  frequency_max=928000000
+  frequency_min=920000000
+  frequency_max=923000000
 
 
   [[backend.basic_station.concentrators]]
